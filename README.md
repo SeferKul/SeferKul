@@ -1,4 +1,5 @@
  <img src="http://www.imgim.com/indir.jpg"/>
+ 
 ### Hello there,
 
   I'm Sefer Kul. I'm an Industrial Engineering Student at Eskişehir Technical University. To quickly sum up, despite my field, I'm highly interested in tech and it seems like I'm gonna completely change my career path this way. Although I will completely turn my career on this path, I also try to benefit as much as possible from the competencies I have acquired from my field.
