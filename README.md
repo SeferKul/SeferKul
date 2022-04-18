@@ -20,5 +20,6 @@ https://www.linkedin.com/in/seferkul/
 
 https://www.instagram.com/sefer.kull/?hl=tr
 
-
-
+### Goals :ant: 
+- Until July, I have to complete the Ford Otosan project.
+- Also, I am planning to develop at least one project using React until my graduation.
