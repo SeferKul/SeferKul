@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/71902568/163734141-a569bed8-1c74-456d-94f0-86de46c1eb78.png" width="1000">
 
+[Obsolete] :)
+
   I'm Sefer Kul. I'm an Industrial Engineering Student at Eskişehir Technical University. To quickly sum up, despite my field, I'm highly interested in tech and it seems like I'm gonna completely change my career path this way. Although I will completely turn my career on this path, I also try to benefit as much as possible from the competencies I have acquired from my field.
 
   I developed several projects for personal interests and school projects. I want to advance professionally in the field of web development. But it seems that I will continue to follow fields such as artificial intelligence and virtual reality as a hobby. 
